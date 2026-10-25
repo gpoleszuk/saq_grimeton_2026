@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=qcw60OCIosU
 
 Grimeton Radio Station, Varberg - UNESCO World Heritage
 https://whc.unesco.org/en/list/1134
+
+#### Spectrum
+![image](./SAQ_WebSDR_Twente_20261024T124951Z.png)
