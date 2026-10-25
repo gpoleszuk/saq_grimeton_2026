@@ -34,3 +34,12 @@ Como você está ouvindo um sinal telegráfico (CW/Código Morse), o reporte com
 Exemplo de preenchimento para o seu caso:
 Se o sinal está difícil mas entendível (3), o volume do beep é fraco/médio (4) e o tom do som é puro (9), o seu reporte QSL será RST 349.
 <!-- Se você quiser, posso ajudar a decodificar o áudio se você transcrever os pontos e traços, ou te ajudar a identificar as siglas internacionais usadas em cartões QSL. Como prefere prosseguir? -->
+
+
+##### Para saber mais
+
+English
+https://www.megger.com/en-us/et-online/march-2020/have-you-ever-heard-of-the-alexanderson-alternator
+
+Portuguese
+https://www.megger.com/pt-br/et-online/march-2020/have-you-ever-heard-of-the-alexanderson-alternator
