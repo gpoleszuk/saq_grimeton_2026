@@ -11,7 +11,7 @@ https://whc.unesco.org/en/list/1134
 
 
 
-#### AI Overview
+#### Gemini AI Overview
 
 Na escala de reportagem de sinais do radioamadorismo (conhecida como código RST), a legibilidade de uma transmissão é qualificada pela letra R (Readability), que varia exatamente de 1 a 5.
 Para a sua gravação, a nota ideal é R3 (Legível com dificuldade substancial) ou R2 (Legível de vez em quando) se o chiado sumir com partes do sinal. Se você consegue entender todos os pontos e traços apesar do chiado forte, o seu reporte de legibilidade é 3.
@@ -33,4 +33,4 @@ Como você está ouvindo um sinal telegráfico (CW/Código Morse), o reporte com
 
 Exemplo de preenchimento para o seu caso:
 Se o sinal está difícil mas entendível (3), o volume do beep é fraco/médio (4) e o tom do som é puro (9), o seu reporte QSL será RST 349.
-Se você quiser, posso ajudar a decodificar o áudio se você transcrever os pontos e traços, ou te ajudar a identificar as siglas internacionais usadas em cartões QSL. Como prefere prosseguir?
+<!-- Se você quiser, posso ajudar a decodificar o áudio se você transcrever os pontos e traços, ou te ajudar a identificar as siglas internacionais usadas em cartões QSL. Como prefere prosseguir? -->
